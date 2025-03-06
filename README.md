@@ -1,4 +1,5 @@
 Shop in Style
+--
 A task in my Apprenticeship where I had to add styling to a basic web page.
 - Enter names of items
 - Press "Add"
